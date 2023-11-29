@@ -1,16 +1,52 @@
-# first_app
+# Flutter Dice Roller App
 
-A new Flutter project.
+Welcome to the Flutter Dice Roller app repository! This simple Flutter application allows users to roll virtual dice, providing a random number between 1 and 6, just like rolling a physical pair of dice.
+
+## Features
+
+- **Virtual Dice Rolling:** Simulate rolling a pair of dice with a tap of a button.
+- **Random Number Generation:** The app uses Flutter's built-in random number generation to provide a realistic dice rolling experience.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure you have Flutter installed. If not, follow the instructions on the [official Flutter website](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone this repository to your local machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    git clone https://github.com/your-username/flutter-dice-roller.git
+    ```
+
+3. Navigate to the project directory:
+
+    ```bash
+    cd flutter-dice-roller
+    ```
+
+4. Run the app:
+
+    ```bash
+    flutter run
+    ```
+
+## Dependencies
+
+This project relies on the following Flutter dependencies:
+
+- `flutter`: The Dart framework for building natively compiled applications.
+  
+## Contributing
+
+If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. We welcome contributions from the community.
+
+## License
+
+This Flutter Dice Roller app is open-source software licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for checking out the Flutter Dice Roller app! If you have any questions or feedback, please don't hesitate to reach out.
+
+Happy coding! 🚀
